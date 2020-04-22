@@ -1,0 +1,39 @@
+[
+	{
+		"steamhex"		:	"steam:11000013bf2f2ef",
+		"panic"			:	true,
+		"panictune"		:	true,
+		"panicwhitelist": 	true
+	},
+	{
+		"steamhex"		:	"steam:11000013613adae",
+		"panic"			:	true,
+		"panictune"		:	true,
+		"panicwhitelist": 	true
+	},
+	{
+		"steamhex"		:	"steam:1100001109d21f2",
+		"panic"			:	true,
+		"panictune"		:	true,
+		"panicwhitelist": 	true
+	},
+	{
+		"steamhex"		:	"steam:110000134ea444f",
+		"panic"			:	true,
+		"panictune"		:	true,
+		"panicwhitelist": 	true
+	},
+	{
+		"steamhex"		:	"steam:110000117634d56",
+		"panic"			:	true,
+		"panictune"		:	true,
+		"panicwhitelist": 	true
+	},
+	{
+		"steamhex"		:	"steam:110000110b9fb3e",
+		"panic"			:	true,
+		"panictune"		:	true,
+		"panicwhitelist": 	true
+	},
+	
+]
